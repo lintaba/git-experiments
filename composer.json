@@ -1,0 +1,13 @@
+{
+    "name": "lintaba/commit-changelog",
+    "authors": [
+        {
+            "name": "lintaba",
+            "email": "lintaba@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "damianopetrungaro/php-commitizen": "^0.1.2"
+    }
+}

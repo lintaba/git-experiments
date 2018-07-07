@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/lintaba/git-experiments/issues"
   },
-  "homepage": "https://github.com/lintaba/git-experiments#readme"
+  "homepage": "https://github.com/lintaba/git-experiments#readme",
+  "dependencies": {
+    "conventional-changelog-cli": "^2.0.1"
+  }
 }
